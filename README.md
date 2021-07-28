@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-waghade&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-waghade" /> </p>
 
-- 🔭 I’m currently working on **Mu8**
+- 🔭 I’m currently working on **REWORC**
 
 - 📫 How to reach me **c.waghade17@gmail.com**
 
-- ⚡ Fun fact **I am introvert, most of use are.**
+- ⚡ Fun fact **I am introvert, most of us are.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
